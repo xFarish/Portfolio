@@ -1,2 +1,2 @@
 # Portfolio
-👋 My personal portfolio server
+👋 My personal portfolio website
