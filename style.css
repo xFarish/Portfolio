@@ -122,11 +122,6 @@ a.nav-link {
 	text-shadow: 0px 0px 40px var(--main-decor-color);
 }
 
-
-/*──────────────────
-    social media
-──────────────────*/
-
 .social-media{
 	padding: 10px;
 	display: flex;
@@ -151,10 +146,6 @@ a.nav-link {
 	color: var(--main-decor-color);
 	text-shadow: 0 0 50px var(--main-decor-color);
 }
-
-/*──────────────────
-      projects
-──────────────────*/
 
 #projects {
 	margin-top:100px;
